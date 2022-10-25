@@ -1,4 +1,4 @@
-This is a basic MATLAB simulation of radio based hand_tracking.
+This is a basic MATLAB simulation of acoustic signal based hand_tracking.
 
 <div align=center>
 <img src="README.assets/tracking.jpg" style="zoom: 67%;" />
